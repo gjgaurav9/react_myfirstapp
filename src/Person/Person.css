@@ -1,0 +1,16 @@
+.Person{
+  width:60%;
+  margin: 15px auto;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 16px;
+  text-align: center;
+}
+
+/* Media Query. We can apply in this way but we will do it Raduim */
+
+/* @media (min-width: 500px){
+  .Person{
+    width: 450px;
+  }
+} */
